@@ -1,0 +1,395 @@
+.A{
+
+list-style: none;
+border: 2PX solid white;
+display: inline-block;
+margin-left: 30px;
+font-size: 15px;
+
+
+}
+
+#a{
+
+
+width: 700px;
+height: 40px;
+margin-left: 200px;
+
+}
+
+#p{
+
+width: 150px;
+height: 70px;
+position: relative;
+ bottom: 75px;
+
+
+}
+#m{
+width: 70px;
+height: 70px;
+margin-left: 900px;
+position: relative;
+bottom: 170px;
+
+}
+#n{
+margin-left: 990px;
+width: 200px;
+position: relative;
+bottom: 250px;
+
+
+}
+
+#rr{
+
+position: relative;
+bottom: 200px;
+width: 1350px;
+height: 400px;
+
+}
+#ss{
+
+position: relative;
+bottom: 625px;
+font-size: 15px;
+border-style:none;
+margin-left: 120px;
+
+}
+.hh{
+
+width: 70px;
+height: 60px;
+margin-left: 130px;
+border: 2px solid none;
+
+}
+#f{
+
+position: relative;
+bottom:40px;
+left: 200px;
+
+}
+
+#pl{
+
+position: relative;
+bottom: 70px;
+left: 410px;
+
+}
+#ppp{
+
+
+    
+position: relative;
+bottom: 100px;
+left: 613px;
+
+}
+#pti{
+    
+position: relative;
+bottom: 130px;
+left: 816px ;
+
+
+
+}
+
+#ooo{
+position: relative;
+bottom: 140px;
+right: 50px;
+
+}
+h3{
+
+position: relative;
+bottom: 250px;
+
+
+}
+
+
+
+.ap{
+
+border: 2px solid  black;
+width: 220px;
+height: 350px;
+display: inline-block;
+margin-left: 20px;
+position: relative;
+bottom: 220px;
+
+
+}
+
+
+.ooooo{
+
+font-size: 20px;
+color: orangered;
+
+}
+.nnnn{
+
+font-size: smaller;
+
+}
+h4{
+
+position: relative;
+bottom: 170px;
+
+
+}
+.you{
+
+
+
+width: 120px ;
+height: 120px;
+
+
+}
+.io{
+
+
+border: 2px solid black;
+width: 130px;
+height: 150px;
+text-align: center;
+display: inline-block;
+margin-left: 20px;
+position: relative;
+bottom: 130px;
+
+
+}
+.uuuu{
+
+border: 2px solid black;
+
+width: 220px ;
+height: 350px;
+display: inline-block;
+
+margin-left: 20px;
+position: relative;
+bottom: 70px;
+
+
+}
+.zzzz{
+
+color: orangered;
+font-size: 20px;
+
+}
+.lklk{
+font-size: smaller;
+    
+}
+#vv{
+    width:400px;
+position: relative;
+right: 50px;
+height: 40px;
+color: orangered;
+border: 2px solid orangered;
+    
+position: relative;
+bottom: 70px;
+
+
+}
+#bbb{
+
+text-align: center;
+
+}
+#qqq{
+
+
+
+
+
+
+}
+#hhj{
+    list-style: none;
+
+}
+#lool{
+
+list-style: none;
+
+
+
+}
+#zas{
+position: relative;
+left: 350px;
+bottom: 340px;
+
+
+}
+
+#mbb{
+position: relative;
+left: 830px;
+
+
+
+
+}
+
+
+#opp{
+width: 200px;
+
+
+
+}
+
+#cdcd{
+
+width: 60px;
+height: 60px;
+position: relative;
+left: 1000px;
+bottom: 100px;
+}
+#azza{
+
+font-size: 15px;
+color: orangered;
+position: relative;
+left: 980px;
+bottom: 110px;
+
+}
+#yt{
+
+
+}
+#zero
+{
+    position: relative;
+    left: 830px;
+    bottom: 120px;
+
+}
+
+#five{
+
+width: 220px;
+
+}
+
+#ad{
+position: relative;
+left: 1000px;
+bottom:195px;
+}
+#ten{
+ width: 120px;
+ 
+}
+
+#thirteen{
+
+position: relative;
+left: 1130px;
+bottom: 235px;
+
+}
+
+#len{
+
+width: 120px;
+
+}
+#qqq{
+
+background-color:rgb(11,11,77) ;
+border: 2px solid black;
+width: 1300px;
+height: 400px;
+color: white;
+ 
+
+}
+
+
+#sula{
+
+font-size:20px ;
+position: relative;
+bottom: 350px;
+
+}
+#af{
+position: relative;
+bottom: 350px;
+
+
+
+
+}
+.fa{
+
+width:100px;
+
+
+}
+
+#fg{
+
+position: relative;
+left: 100px;
+bottom: 400px;
+
+
+}
+#err{
+
+position: relative;
+left: 200px;
+bottom:500px ;
+
+}
+
+#nbb{
+
+}
+
+
+#gf{
+
+width: 200px;
+position: relative;
+left: 480px;
+bottom: 620px;
+
+}
+
+#ula{
+
+position: relative;
+left: 535px;
+font-size:20px ;
+bottom: 620px;
+
+
+}
+
+
